@@ -41,8 +41,7 @@ footer p {
   color: #ccc;
 }
 .note {
-  background-color: #000000;
-background-image: url("https://www.transparenttextures.com/patterns/bo-play.png");
+  background-color: #ccc;
   border-radius: 7px;
   box-shadow: 0 2px 5px #ccc;
   padding: 10px;
